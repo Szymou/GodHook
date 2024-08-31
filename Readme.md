@@ -1,11 +1,14 @@
 # GodHook
 **一切皆可API：HOOK并通过WebApi请求目标APP的函数。**
 
+蓝奏云：[点击下载](https://wwxz.lanzn.com/b028kizbja)
+密码:9xre
+
 待办：
 
 - [ ] 留一个帖子让大家留言bug或者大家点击本APP右上角进入[群聊](https://t.me/god_hook_nnbs)
 - [ ] 发布一篇帖子：如何使用magisk-frp模块，通过公网请求内网API？（即任何地方都可以通过公网请求API，从而控制机器人发送消息）
-- [ ] 当前仅适配wx8.0.49(2681)，后续适配wx更多版本。这是在网上找的123网盘：[点击下载 ](https://www.123pan.com/s/tAr8Vv-LpOCh.html)提取码:Xtd9
+- [ ] 当前仅适配wx8.0.49(2681/2685)、wx8.0.48(2589)，后续适配wx更多版本。这是在网上找的123网盘：[点击下载 ](https://www.123pan.com/s/tAr8Vv-LpOCh.html)提取码:Xtd9
 - [ ] 整一个更新接口，当前版没有更新接口
 - [ ] 有时间再整作用域更多APP
 
