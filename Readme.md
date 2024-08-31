@@ -1,4 +1,4 @@
-<img src="logo/logo2.png" style="zoom:10%;" />
+<img src="logo/logo2.png" width="10%" />
 
 # GodHook
 
