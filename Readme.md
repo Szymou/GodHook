@@ -3,12 +3,13 @@
 
 
 # 神引 / GodHook
-源仓库：[![LSPosed](https://img.shields.io/badge/LSPosed-Module-blue.svg)](https://github.com/Szymou/GodHook)
-[![Github](https://img.shields.io/badge/Github-IceCore-black.svg)](https://github.com/Szymou/GodHook)
+[![LSPosed](https://img.shields.io/badge/LSPosed-Module-blue.svg)](https://github.com/Szymou/GodHook)
+<br/> 
+源仓库：[![Github](https://img.shields.io/badge/Github-GodHook-black.svg)](https://github.com/Szymou/GodHook)
 
 
-一个集成了各种好玩功能的Xposed模块，支持获取vip，去除广告，等功能
-✨**一个集成了各种好玩功能的Xposed模块，支持：1.接入AI大模型自动回复；2.通过Api请求并执行宿主APP的各种函数；3.在宿主APP中，订阅每日新闻、每日天气、鸡汤；各种新功能，待挖掘...** ✨
+✨**一个集成了各种好玩功能的Xposed模块** ✨1. 接入AI大模型自动回复；2. 通过Api请求并执行宿主APP的各种函数；3. 在宿主APP中，订阅每日新闻、每日天气、鸡汤；4. 各种新功能，待挖掘...
+
 #微信机器人 #自动回复 #AI聊天 #运维告警 #Deepseek #Qwen #智普 #Silicon
 
 </div>
