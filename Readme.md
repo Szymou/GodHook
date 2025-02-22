@@ -7,16 +7,19 @@
 <br/>
 **源仓库：**[![Github](https://img.shields.io/badge/Github-GodHook-yellow.svg)](https://github.com/Szymou/GodHook)
 
+</div>
+
+
+
 
 ✨**一个集成了各种好玩功能的Xposed模块** ✨
+
 1. **自动回复：支持多种AI语言大模型，如DeepSeek、Qwen、Silicon等；**
 1. **订阅功能：定时08:30am，推送每日新闻、毒鸡汤、每日天气等你想到的功能；**
 1. **接口功能： 通过访问api，执行宿主APP的消息函数，用于运维告警、数据推送等场景；**
 1. **各种新功能，待挖掘...**
 
 _**#微信机器人 #自动回复 #AI聊天 #运维告警 #Deepseek #Qwen #智普 #Silicon**_
-
-</div>
 
 
 # GodHook / 神引
