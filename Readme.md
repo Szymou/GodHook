@@ -62,20 +62,17 @@ _**#微信机器人 #自动回复 #AI聊天 #运维告警 #Deepseek #Qwen #智�
 > | 查看机器人信息       | #机器人信息                                      | 一般信息会回复在当前聊天室，重要信息会在【文件传输助手】 |
 
 模型API和Key格式：
-https://api.siliconflow.cn/v1/chat/completions
 
+https://api.siliconflow.cn/v1/chat/completions
 key格式：sk-xxx
 
 https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
-
 key格式：sk-xxx
 
 https://open.bigmodel.cn/api/paas/v4/chat/completions
-
 key格式：没有sk-
 
 https://api.deepseek.com/chat/completions
-
 key格式：sk-xxxx
 
 ## 2.订阅功能（前提：AI大模型已配置并可用）
