@@ -85,6 +85,8 @@ key格式：没有sk-
 https://api.deepseek.com/chat/completions
 key格式：sk-xxxx
 
+<img src="logo/sample1.png" width="50%" />
+
 ## 2.订阅功能（前提：AI大模型已配置并可用）
 
 **使用步骤：**
