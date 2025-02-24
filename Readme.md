@@ -77,18 +77,26 @@ _**#微信机器人 #自动回复 #AI聊天 #运维告警 #Deepseek #Qwen #智�
 
 模型API和Key格式：
 
-https://api.siliconflow.cn/v1/chat/completions
+```配置模板：
+
+API：https://api.siliconflow.cn/v1/chat/completions
+模型：Qwen/Qwen2.5-7B-Instruct
 key格式：sk-xxx
 
-https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+API：https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+模型qwen-turbo-1101
 key格式：sk-xxx
 
-https://open.bigmodel.cn/api/paas/v4/chat/completions
-key格式：没有sk-
+API：https://open.bigmodel.cn/api/paas/v4/chat/completions
+模型：glm-4-flash
+key格式：无需sk-xxx
 
-https://api.deepseek.com/chat/completions
-key格式：sk-xxxx
+API：https://api.deepseek.com/chat/completions
+模型：deepseek-chat
+key格式：sk-xxx
 
+对应的key，自己去相应的模型网站申请吧，当前不建议使用deepseek，有时候它的API会超时不可用。
+```
 <img src="logo/sample1.png" width="50%" />
 
 ## 2.订阅功能（前提：AI大模型已配置并可用）
