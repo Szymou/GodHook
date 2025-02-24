@@ -77,7 +77,8 @@ _**#微信机器人 #自动回复 #AI聊天 #运维告警 #Deepseek #Qwen #智�
 
 模型API和Key格式：
 
-```配置模板：
+```
+配置模板：
 
 API：https://api.siliconflow.cn/v1/chat/completions
 模型：Qwen/Qwen2.5-7B-Instruct
