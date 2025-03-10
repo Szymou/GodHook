@@ -6,7 +6,7 @@
 [![LSPosed](https://img.shields.io/badge/LSPosed-Module-blue.svg)](https://github.com/Szymou/GodHook)
 <br/>
 **源仓库：**[![Github](https://img.shields.io/badge/Github-GodHook-yellow.svg)](https://github.com/Szymou/GodHook)
-
+**下载量：**[![Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/cc.godhook/total)](https://github.com/Szymou/GodHook)
 </div>
 
 
@@ -47,15 +47,15 @@ _**#微信机器人 #自动回复 #AI聊天 #运维告警 #Deepseek #Qwen #智�
 > 答：在当前聊天框发送【#聊天室ID】，查看返回的ID是否为wxid_xxx，如果不是，那就是不支持，后续会优化；因为当前仅支持wxid_xxx的ID，对老号不太友好。
 > 
 > 3. 返回提示“api为空”的暂时解决方案：
-```java
-回复指令进行设置（逐个复制，不要一起复制）:
-#API:https://xxxxxxxxxxxxxx
-#KEY:sk-xxxxxxxxxxxxxxxxxx
-#模型:xxxxxxxxxxxxxxxxxxxx
-#触发:@xxxxx
-#缓存:10
-设置成功，重启宿主APP，发送指令【#机器人信息】进行检查。
-```
+> ```java
+> 回复指令进行设置（逐个复制，不要一起复制）:
+> #API:https://xxxxxxxxxxxxxx
+> #KEY:sk-xxxxxxxxxxxxxxxxxx
+> #模型:xxxxxxxxxxxxxxxxxxxx
+> #触发:@xxxxx
+> #缓存:10
+> 设置成功，重启宿主APP，发送指令【#机器人信息】进行检查。
+> ```
 
 ## 免责声明
 
